@@ -27,3 +27,4 @@ This After Effects script automates the creation of UI walkthrough animations. F
 5. Select the `.json` file.
 
 The script will automatically create the UI walkthrough animation for you and open the main composition.
+*DO NOT remove the .EDU folder inside the project
